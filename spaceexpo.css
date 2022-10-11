@@ -1,0 +1,38 @@
+body {
+  
+    margin: 0; 
+
+    color: #82a5ca; 
+    text-align: center;
+
+    font-family: 'Syncopate', sans-serif;
+}
+
+.btn {
+
+    padding: 6px 12px;
+    border: 0px solid rgb(255, 255, 255);
+    color: #82a5ca; 
+    font-family: inherit;
+    font-weight: bold;
+}
+
+.underline {
+    border-bottom: 5px solid  rgb(255, 255, 255) ;
+}
+
+
+#spaceX { 
+    width: 500px;
+}
+
+
+#hero { 
+    background-image: url("https://media1.giphy.com/media/l1Et47pprJUgTR96w/giphy.gif?cid=ecf05e47adxto60tfpf0k3izpc21f8y1cf8pkd5ai5zj6u61&rid=giphy.gif&ct=g");
+    background-size: cover;
+    padding: 10px 0 40px 0; 
+}
+
+#shadow {
+    text-shadow: 0px 0px 4px black ;
+}
