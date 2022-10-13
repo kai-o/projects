@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="birthdaypr.css">
+    </head>
+    <body>
+        <div id="header">
+            <h1>today is guts birthday</h1>
+            <img id="bff-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndg3SNPXfc3alIEy0nfmKt6FYhJEywXMRD-Kk7-S0HQipJ7_eWXXLpHZUAlv0hiBghSs&usqp=CAU">
+            <h2 id="bday-age">24 years old</h2>
+            <h4 id="bday-date">?.?.?</h4>
+        </div> 
+        <div class="gift-section">
+            <h2 class="gift-title">happy birthday the black swords man</h2>
+            <h3 class="gift-hint">(hover over the gift)</h3>
+            <div class="gift-img"></div>
+            <h3 class="gift-title">how people react when they see them big ole mooscles </h3>
+            <h3 class="gift-hint">(hover over the gift)</h3>
+            <div class="gift-img" id="hawt"></div>
+            <h3  class="gift-title">this is how smart u are guts</h3>  
+            <div class="gift-img" id="smaht"></div>
+            <h3  class="gift-title">u are a fucking badass</h3>
+            <div class="gift-img" id="badass"></div> 
+            <h3>this ones for u bud!</h3>
+            <div class="gift-img" id="cheers"></div>
+
+
+        </div>
+    </body>
+</html>
