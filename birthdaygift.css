@@ -1,0 +1,118 @@
+body {
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background: linear-gradient(#81bef7,#fa84b3);
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0 0 1px black;
+}
+
+#bff-img {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #EFB0C9;
+    margin-bottom: 10px;
+}
+
+#bday-age {
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+#bday-date {
+    margin: 0;
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+.gift-img {
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("https://images.freeimages.com/images/previews/266/gift-1422193.jpg");
+    background-size: cover;
+}
+
+
+
+
+.gift-img:hover { 
+   background-image:  url("https://i.pinimg.com/originals/68/9c/c8/689cc8b3a72ee38ef3b3e12420f30da9.jpg")
+}
+
+
+.gift-img{
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("https://images.freeimages.com/images/previews/266/gift-1422193.jpg");
+    background-size: cover;
+}
+
+
+
+#hawt:hover {
+    background-image: url("https://preview.redd.it/7pqt8mlqh4h21.jpg?auto=webp&s=7aac7baaaf763c4598ef2b7e4f2186d0986bd186");
+    
+}
+
+
+
+
+#smaht:hover {
+    background-image: url("https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F002%2F410%2F583%2F050.jpg");
+}
+
+
+#badass:hover { 
+    background-image: url("https://comicvine.gamespot.com/a/uploads/original/11124/111246012/4847273-4484418557-48295.jpg");
+}
+
+#cheers:hover {
+       
+        background-image: url("https://64.media.tumblr.com/bcf671d7b80c1783ee9270bcb9862023/6a1a792559663cb2-48/s1280x1920/f8b27553960053ebbe2dbaee16ffa0cda6349c72.png");
+}
+
+
+#cheers{
+    height: 300px;
+}
+
+
+
+#footer {
+    font-style: italic;
+    width: 400px;
+    margin: 40 auto 15px;
+}
+
+a {
+    color:white;
+}
